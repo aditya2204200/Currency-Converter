@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(money.jpg);
+    background-color: gray;
 }
 
 .containeer{
@@ -67,3 +67,4 @@ form button{
     font-size: 1.15rem;
     cursor: pointer;
 }
+
